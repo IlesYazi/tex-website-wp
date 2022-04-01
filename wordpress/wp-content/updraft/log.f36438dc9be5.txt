@@ -1,0 +1,353 @@
+0000.003 (0) Opened log file at time: Wed, 30 Mar 2022 13:59:52 +0000 on http://localhost:5555
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.11 WP: 5.9.2 PHP: 7.4.28 (apache2handler, Linux 78b8917bf653 5.10.16.3-microsoft-standard-WSL2 #1 SMP Fri Apr 2 22:23:49 UTC 2021 x86_64) MySQL: 10.7.3-MariaDB-1:10.7.3+maria~focal (max packet size=16777216) WPLANG: fr_FR Server: Apache/2.4.52 (Debian) safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 13.4M | 2M) multisite: N openssl: OpenSSL 1.1.1k  25 Mar 2021 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 225195.6 MB
+0000.013 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB: 1 (schedule: daily)
+0000.027 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.032 (0) Set semaphore last lock (fd) time to 2022-03-30 13:59:52
+0000.033 (0) Semaphore lock (fd) complete
+0000.037 (0) Backup run: resumption=0, nonce=f36438dc9be5, file_nonce=f36438dc9be5 begun at=1648648792 (0s ago), job type=backup
+0000.040 (0) Scheduling a resumption (1) after 300 seconds (1648649092) in case this run gets aborted
+0000.083 (0) Checking if we have a zip executable available
+0000.085 (0) Creation of backups of directories: beginning
+0000.092 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0008.612 (0) Total entities for the zip file: 1145 directories, 5440 files (0 skipped as non-modified), 77.5 MB
+0008.628 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0010.296 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 100 files added (on-disk size: 205.2 KB)
+0011.187 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 200 files added (on-disk size: 205.2 KB)
+0012.001 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 300 files added (on-disk size: 205.2 KB)
+0012.073 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.6 MB, 305 (306) files added so far); re-opening (prior size: 205.2 KB)
+0015.942 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 400 files added (on-disk size: 1300.1 KB)
+0016.981 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 500 files added (on-disk size: 1300.1 KB)
+0018.074 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 276 (582) files added so far); re-opening (prior size: 1300.1 KB)
+0020.526 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 600 files added (on-disk size: 1747.7 KB)
+0021.492 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 700 files added (on-disk size: 1747.7 KB)
+0022.423 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 800 files added (on-disk size: 1747.7 KB)
+0023.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 288 (870) files added so far); re-opening (prior size: 1747.7 KB)
+0025.651 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 900 files added (on-disk size: 1982.3 KB)
+0026.705 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1000 files added (on-disk size: 1982.3 KB)
+0027.812 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1100 files added (on-disk size: 1982.3 KB)
+0028.076 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.6 MB, 252 (1122) files added so far); re-opening (prior size: 1982.3 KB)
+0031.078 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1200 files added (on-disk size: 2208.2 KB)
+0032.184 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1300 files added (on-disk size: 2208.2 KB)
+0032.993 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1400 files added (on-disk size: 2208.2 KB)
+0033.071 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 287 (1409) files added so far); re-opening (prior size: 2208.2 KB)
+0035.973 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1500 files added (on-disk size: 2807.9 KB)
+0036.703 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1600 files added (on-disk size: 2807.9 KB)
+0037.423 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1700 files added (on-disk size: 2807.9 KB)
+0038.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (23.1 MB, 358 (1767) files added so far); re-opening (prior size: 2807.9 KB)
+0042.904 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1800 files added (on-disk size: 9243.8 KB)
+0043.798 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 1900 files added (on-disk size: 9243.8 KB)
+0044.638 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2000 files added (on-disk size: 9243.8 KB)
+0045.074 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 288 (2055) files added so far); re-opening (prior size: 9243.8 KB)
+0047.368 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2100 files added (on-disk size: 9781.2 KB)
+0048.080 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2200 files added (on-disk size: 9781.2 KB)
+0048.875 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2300 files added (on-disk size: 9781.2 KB)
+0049.822 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2400 files added (on-disk size: 9781.2 KB)
+0050.073 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.4 MB, 368 (2423) files added so far); re-opening (prior size: 9781.2 KB)
+0053.221 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2500 files added (on-disk size: 11522.7 KB)
+0053.942 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2600 files added (on-disk size: 11522.7 KB)
+0054.743 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2700 files added (on-disk size: 11522.7 KB)
+0055.071 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 325 (2748) files added so far); re-opening (prior size: 11522.7 KB)
+0058.744 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2800 files added (on-disk size: 12251.7 KB)
+0059.502 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 2900 files added (on-disk size: 12251.7 KB)
+0060.160 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3000 files added (on-disk size: 12251.7 KB)
+0060.899 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3100 files added (on-disk size: 12251.7 KB)
+0061.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.1 MB, 372 (3120) files added so far); re-opening (prior size: 12251.7 KB)
+0065.646 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3200 files added (on-disk size: 14024 KB)
+0066.327 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3300 files added (on-disk size: 14024 KB)
+0067.533 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3400 files added (on-disk size: 14024 KB)
+0068.081 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.7 MB, 325 (3445) files added so far); re-opening (prior size: 14024 KB)
+0073.487 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3500 files added (on-disk size: 17737.3 KB)
+0074.566 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3600 files added (on-disk size: 17737.3 KB)
+0075.073 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.8 MB, 200 (3645) files added so far); re-opening (prior size: 17737.3 KB)
+0078.696 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3700 files added (on-disk size: 18310 KB)
+0080.070 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 155 (3800) files added so far); re-opening (prior size: 18310 KB)
+0082.643 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3800 files added (on-disk size: 18614.7 KB)
+0084.013 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 3900 files added (on-disk size: 18614.7 KB)
+0085.024 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4000 files added (on-disk size: 18614.7 KB)
+0085.077 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.9 MB, 204 (4004) files added so far); re-opening (prior size: 18614.7 KB)
+0089.258 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4100 files added (on-disk size: 18934.9 KB)
+0090.069 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.7 MB, 177 (4181) files added so far); re-opening (prior size: 18934.9 KB)
+0093.244 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4200 files added (on-disk size: 19390.3 KB)
+0094.520 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4300 files added (on-disk size: 19390.3 KB)
+0095.075 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.2 MB, 160 (4341) files added so far); re-opening (prior size: 19390.3 KB)
+0097.930 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4400 files added (on-disk size: 19530.9 KB)
+0098.708 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4500 files added (on-disk size: 19530.9 KB)
+0099.341 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4600 files added (on-disk size: 19530.9 KB)
+0099.996 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4700 files added (on-disk size: 19530.9 KB)
+0100.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (8.1 MB, 370 (4711) files added so far); re-opening (prior size: 19530.9 KB)
+0104.536 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4800 files added (on-disk size: 24006.3 KB)
+0105.275 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 4900 files added (on-disk size: 24006.3 KB)
+0106.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4 MB, 257 (4968) files added so far); re-opening (prior size: 24006.3 KB)
+0110.730 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 5000 files added (on-disk size: 25184.4 KB)
+0111.606 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 5100 files added (on-disk size: 25184.4 KB)
+0112.428 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 5200 files added (on-disk size: 25184.4 KB)
+0113.073 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.3 MB, 283 (5251) files added so far); re-opening (prior size: 25184.4 KB)
+0118.406 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 5300 files added (on-disk size: 25583.6 KB)
+0119.494 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.tmp: 5400 files added (on-disk size: 25583.6 KB)
+0123.748 (0) Creating zip file manifest (/var/www/html/wp-content/updraft/backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.list-temp.tmp)
+0124.213 (0) Successfully created zip file manifest (size: 454906)
+0124.949 (0) Created plugins zip (0) - 26249.2 KB in 124.8 s (210.2 KB/s) (sha1: edec9ffd498129865c7690b97f14eb633d067e8e, sha256: 4721a3a77bdf4d2d96a79e734debbea389bf21a37126692a282c89124c6429ef)
+0124.960 (0) Beginning creation of dump of themes (split every: 400 MB)
+0125.938 (0) Total entities for the zip file: 135 directories, 654 files (0 skipped as non-modified), 12 MB
+0126.818 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0127.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 127 (127) files added so far); re-opening (prior size: 0 KB)
+0128.429 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip.tmp: 200 files added (on-disk size: 430.3 KB)
+0129.286 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip.tmp: 300 files added (on-disk size: 430.3 KB)
+0130.072 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.6 MB, 257 (384) files added so far); re-opening (prior size: 430.3 KB)
+0132.341 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip.tmp: 400 files added (on-disk size: 1571.5 KB)
+0133.262 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip.tmp: 500 files added (on-disk size: 1571.5 KB)
+0133.953 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip.tmp: 600 files added (on-disk size: 1571.5 KB)
+0136.888 (0) Creating zip file manifest (/var/www/html/wp-content/updraft/backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip.list-temp.tmp)
+0136.947 (0) Successfully created zip file manifest (size: 44874)
+0137.043 (0) Created themes zip (0) - 3211.3 KB in 12.1 s (266 KB/s) (sha1: 7a201debe5255946c8704e019eff53ce3cb525da, sha256: 74fb0d29258d50a921701daeb1128cb7908390bb68f1a384731e95aac38b7fba)
+0137.053 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0137.054 (0) Looking for candidates to backup in: /var/www/html/wp-content/uploads
+0137.056 (0) finding files: 2022: adding to list (1)
+0137.057 (0) finding files: elementor: adding to list (2)
+0137.058 (0) finding files: ithemes-security: adding to list (3)
+0137.059 (0) finding files: kadence_starter_templates: adding to list (4)
+0137.061 (0) finding files: template-kits: adding to list (5)
+0137.062 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0137.410 (0) Total entities for the zip file: 17 directories, 298 files (0 skipped as non-modified), 27.4 MB
+0138.021 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0138.627 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0139.140 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 298 files batched, 275 (275) added so far); re-opening (prior size: 0 KB)
+0141.155 (0) A useful amount of data was added after this amount of zip processing: 4.1 s (normalised: 4.1 s, rate: 6276.3 KB/s)
+0141.157 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.0871360301971, normalised_time=4.0788385972642, max_time=141.15351319313, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0142.611 (0) Creating zip file manifest (/var/www/html/wp-content/updraft/backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-uploads.zip.list-temp.tmp)
+0142.639 (0) Successfully created zip file manifest (size: 23007)
+0143.316 (0) Created uploads zip (0) - 24650.7 KB in 6.2 s (3948 KB/s) (sha1: b3c7c4294bf2348223dae7ce160b494260be7557, sha256: aa2d6d81d363da9929609d3e2c425459a50e0fa8d78eab4e45d1a312009a757f)
+0143.326 (0) Beginning backup of other directories found in the content directory (index: 0)
+0143.328 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0143.329 (0) Looking for candidates to backup in: /var/www/html/wp-content
+0143.331 (0) finding files: index.php: adding to list (1)
+0143.332 (0) finding files: languages: adding to list (2)
+0143.333 (0) finding files: plugins: skipping: this is the plugins directory
+0143.334 (0) finding files: themes: skipping: this is the themes directory
+0143.335 (0) finding files: updraft: skipping: this is the updraft directory
+0143.336 (0) finding files: upgrade: skipping: excluded by options
+0143.337 (0) finding files: uploads: skipping: this is the uploads directory
+0143.547 (0) Total entities for the zip file: 3 directories, 192 files (0 skipped as non-modified), 4.7 MB
+0143.948 (0) Zip: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0145.517 (0) Creating zip file manifest (/var/www/html/wp-content/updraft/backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-others.zip.list-temp.tmp)
+0145.536 (0) Successfully created zip file manifest (size: 14820)
+0145.583 (0) Created others zip (0) - 1408 KB in 2.2 s (630.1 KB/s) (sha1: 7d4855dfa0c4c831a73c27d32beea772748f96f1, sha256: 6ae390ba0051f3419f4e32399873243b3380094ed53b0c4878fc95f4c15e685a)
+0145.596 (0) Saving backup status to database (elements: 8)
+0145.598 (0) Beginning creation of database dump (WordPress DB)
+0145.599 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0145.671 (0) Table wp_options: Total expected rows (via COUNT): 259
+0145.672 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.710 (0) Table wp_options: Rows added in this batch (next record: 1473): 255 (uncompressed bytes in this segment=1778066) in 0.05 seconds
+0145.722 (0) Table wp_options: finishing file(s) (2, 240.9 KB)
+0145.727 (0) Table wp_users: Total expected rows (via COUNT): 2
+0145.728 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.730 (0) Table wp_users: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1504) in 0.00 seconds
+0145.739 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0145.745 (0) Table wp_usermeta: Total expected rows (via COUNT): 41
+0145.746 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0145.749 (0) Table wp_usermeta: Rows added in this batch (next record: 41): 41 (uncompressed bytes in this segment=3269) in 0.01 seconds
+0145.759 (0) Table wp_usermeta: finishing file(s) (2, 1.4 KB)
+0145.769 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0145.772 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=684) in 0.01 seconds
+0145.781 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0145.786 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0145.789 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1678) in 0.00 seconds
+0145.798 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0145.804 (0) Table wp_links: Total expected rows (via COUNT): 0
+0145.805 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.00 seconds
+0145.814 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0145.851 (0) Table wp_postmeta: Total expected rows (approximate): 2701
+0145.955 (0) Table wp_postmeta: Rows added in this batch (next record: 3493): 2891 (uncompressed bytes in this segment=8391473) in 0.14 seconds
+0145.967 (0) Table wp_postmeta: finishing file(s) (2, 350 KB)
+0145.982 (0) Table wp_posts: Total expected rows (via COUNT): 613
+0146.017 (0) Table wp_posts: Rows added in this batch (next record: 695): 613 (uncompressed bytes in this segment=2571578) in 0.05 seconds
+0146.029 (0) Table wp_posts: finishing file(s) (2, 90.5 KB)
+0146.034 (0) Table wp_term_relationships: Total expected rows (approximate): 70
+0146.037 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 70 (uncompressed bytes in this segment=1650) in 0.00 seconds
+0146.047 (0) Table wp_term_relationships: finishing file(s) (2, 0.6 KB)
+0146.053 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 7
+0146.054 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0146.057 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=1109) in 0.01 seconds
+0146.067 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0146.074 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0146.076 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=657) in 0.00 seconds
+0146.087 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0146.091 (0) Table wp_terms: Total expected rows (via COUNT): 7
+0146.093 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0146.095 (0) Table wp_terms: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=951) in 0.00 seconds
+0146.104 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0146.110 (0) Table wp_itsec_bans: Total expected rows (via COUNT): 0
+0146.112 (0) Table wp_itsec_bans: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=852) in 0.00 seconds
+0146.121 (0) Table wp_itsec_bans: finishing file(s) (2, 0.4 KB)
+0146.127 (0) Table wp_itsec_dashboard_events: Total expected rows (via COUNT): 0
+0146.129 (0) Table wp_itsec_dashboard_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=804) in 0.00 seconds
+0146.137 (0) Table wp_itsec_dashboard_events: finishing file(s) (2, 0.4 KB)
+0146.146 (0) Table wp_itsec_distributed_storage: Total expected rows (via COUNT): 0
+0146.147 (0) Table wp_itsec_distributed_storage: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=897) in 0.00 seconds
+0146.158 (0) Table wp_itsec_distributed_storage: finishing file(s) (2, 0.4 KB)
+0146.166 (0) Table wp_itsec_fingerprints: Total expected rows (via COUNT): 0
+0146.167 (0) Table wp_itsec_fingerprints: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1197) in 0.00 seconds
+0146.178 (0) Table wp_itsec_fingerprints: finishing file(s) (2, 0.5 KB)
+0146.184 (0) Table wp_itsec_geolocation_cache: Total expected rows (via COUNT): 0
+0146.185 (0) Table wp_itsec_geolocation_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=921) in 0.00 seconds
+0146.194 (0) Table wp_itsec_geolocation_cache: finishing file(s) (2, 0.4 KB)
+0146.201 (0) Table wp_itsec_lockouts: Total expected rows (via COUNT): 0
+0146.202 (0) Table wp_itsec_lockouts: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1200) in 0.00 seconds
+0146.212 (0) Table wp_itsec_lockouts: finishing file(s) (2, 0.5 KB)
+0146.219 (0) Table wp_itsec_logs: Total expected rows (via COUNT): 0
+0146.221 (0) Table wp_itsec_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1426) in 0.00 seconds
+0146.230 (0) Table wp_itsec_logs: finishing file(s) (2, 0.5 KB)
+0146.237 (0) Table wp_itsec_mutexes: Total expected rows (via COUNT): 0
+0146.238 (0) Table wp_itsec_mutexes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=609) in 0.00 seconds
+0146.247 (0) Table wp_itsec_mutexes: finishing file(s) (2, 0.4 KB)
+0146.253 (0) Table wp_itsec_opaque_tokens: Total expected rows (approximate): 0
+0146.254 (0) Table wp_itsec_opaque_tokens: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=747) in 0.00 seconds
+0146.263 (0) Table wp_itsec_opaque_tokens: finishing file(s) (2, 0.4 KB)
+0146.270 (0) Table wp_itsec_temp: Total expected rows (via COUNT): 0
+0146.271 (0) Table wp_itsec_temp: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=887) in 0.00 seconds
+0146.280 (0) Table wp_itsec_temp: finishing file(s) (2, 0.4 KB)
+0146.287 (0) Table wp_itsec_user_groups: Total expected rows (approximate): 0
+0146.288 (0) Table wp_itsec_user_groups: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=849) in 0.00 seconds
+0146.298 (0) Table wp_itsec_user_groups: finishing file(s) (2, 0.4 KB)
+0146.302 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_options.table.tmpr1474.gz (1/23/fopen): adding to final database dump
+0146.393 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_options.table.gz (2/23/fopen): adding to final database dump
+0146.395 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_users.table.tmpr3.gz (3/23/fopen): adding to final database dump
+0146.398 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_users.table.gz (4/23/fopen): adding to final database dump
+0146.399 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_usermeta.table.tmpr42.gz (5/23/fopen): adding to final database dump
+0146.403 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_usermeta.table.gz (6/23/fopen): adding to final database dump
+0146.404 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_commentmeta.table.tmpr0.gz (7/23/fopen): adding to final database dump
+0146.407 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_commentmeta.table.gz (8/23/fopen): adding to final database dump
+0146.408 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_comments.table.tmpr0.gz (9/23/fopen): adding to final database dump
+0146.411 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_comments.table.gz (10/23/fopen): adding to final database dump
+0146.412 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_links.table.tmpr0.gz (11/23/fopen): adding to final database dump
+0146.415 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_links.table.gz (12/23/fopen): adding to final database dump
+0146.417 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_postmeta.table.tmpr3494.gz (13/23/fopen): adding to final database dump
+0146.536 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_postmeta.table.gz (14/23/fopen): adding to final database dump
+0146.538 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_posts.table.tmpr696.gz (15/23/fopen): adding to final database dump
+0146.579 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_posts.table.gz (16/23/fopen): adding to final database dump
+0146.581 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_term_relationships.table.tmpr100001.gz (17/23/fopen): adding to final database dump
+0146.584 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_term_relationships.table.gz (18/23/fopen): adding to final database dump
+0146.585 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_term_taxonomy.table.tmpr8.gz (19/23/fopen): adding to final database dump
+0146.588 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_term_taxonomy.table.gz (20/23/fopen): adding to final database dump
+0146.589 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_termmeta.table.tmpr0.gz (21/23/fopen): adding to final database dump
+0146.592 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_termmeta.table.gz (22/23/fopen): adding to final database dump
+0146.594 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_terms.table.tmpr8.gz (23/23/fopen): adding to final database dump
+0146.597 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_terms.table.gz (24/23/fopen): adding to final database dump
+0146.598 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_bans.table.tmpr0.gz (25/23/fopen): adding to final database dump
+0146.601 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_bans.table.gz (26/23/fopen): adding to final database dump
+0146.603 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_dashboard_events.table.tmpr0.gz (27/23/fopen): adding to final database dump
+0146.606 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_dashboard_events.table.gz (28/23/fopen): adding to final database dump
+0146.607 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_distributed_storage.table.tmpr0.gz (29/23/fopen): adding to final database dump
+0146.611 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_distributed_storage.table.gz (30/23/fopen): adding to final database dump
+0146.612 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_fingerprints.table.tmpr0.gz (31/23/fopen): adding to final database dump
+0146.615 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_fingerprints.table.gz (32/23/fopen): adding to final database dump
+0146.617 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_geolocation_cache.table.tmpr0.gz (33/23/fopen): adding to final database dump
+0146.621 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_geolocation_cache.table.gz (34/23/fopen): adding to final database dump
+0146.623 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_lockouts.table.tmpr0.gz (35/23/fopen): adding to final database dump
+0146.626 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_lockouts.table.gz (36/23/fopen): adding to final database dump
+0146.627 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_logs.table.tmpr0.gz (37/23/fopen): adding to final database dump
+0146.630 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_logs.table.gz (38/23/fopen): adding to final database dump
+0146.631 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_mutexes.table.tmpr0.gz (39/23/fopen): adding to final database dump
+0146.634 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_mutexes.table.gz (40/23/fopen): adding to final database dump
+0146.635 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_opaque_tokens.table.tmpr1.gz (41/23/fopen): adding to final database dump
+0146.638 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_opaque_tokens.table.gz (42/23/fopen): adding to final database dump
+0146.639 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_temp.table.tmpr0.gz (43/23/fopen): adding to final database dump
+0146.642 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_temp.table.gz (44/23/fopen): adding to final database dump
+0146.643 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_user_groups.table.tmpr1.gz (45/23/fopen): adding to final database dump
+0146.646 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db-table-wp_itsec_user_groups.table.gz (46/23/fopen): adding to final database dump
+0146.678 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db.gz: finished writing out complete database file (691.5 KB)
+0146.726 (0) Total database tables backed up: 23 (backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db.gz, size: 708239, sha1: 708e4993c0ae8cd3e0dbc081d781e54ff6bdca70, sha256: ca0eae4cd3fba893e79695db0255880a481371b2f30c2e2c738d4e0b391d622a)
+0146.732 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0146.734 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0146.735 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0146.737 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-others.zip: others: This file has not yet been successfully uploaded: will queue
+0146.738 (0) backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db.gz: db: This file has not yet been successfully uploaded: will queue
+0146.739 (0) Saving backup history. Total backup size: 54.9 MB
+0146.741 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0146.745 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0146.748 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-3315b677baad5cfe966be82c0e26f2a9)
+0149.384 (0) Google Drive: quota usage: used=85.5 MB, total=15360 MB, available=15274.5 MB
+0149.392 (0) Google Drive: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip: Attempting to upload to Google Drive (into folder id: 1dltqUJ-AFcd1AhsLB03nl2bWxUwKY3fW)
+0149.793 (0) Googledrive chunked upload: 3.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 14.5 / 16)
+0149.933 (0) Googledrive chunked upload: 11.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 14.6 / 16)
+0150.507 (0) Googledrive chunked upload: 27.3 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 14.6 / 16)
+0150.914 (0) Googledrive chunked upload: 58.5 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 14.6 / 16)
+0153.209 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0153.213 (0) Google Drive: OK: Archive backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip uploaded in 3.82 seconds
+0153.214 (0) Recording as successfully uploaded: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip
+0153.220 (0) Deleting local file: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip: OK
+0153.221 (0) Deleting zip manifest (backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-plugins.zip.list.tmp)
+0153.472 (0) Google Drive: quota usage: used=111.2 MB, total=15360 MB, available=15248.8 MB
+0153.480 (0) Google Drive: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip: Attempting to upload to Google Drive (into folder id: 1dltqUJ-AFcd1AhsLB03nl2bWxUwKY3fW)
+0153.847 (0) Googledrive chunked upload: 31.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 14.5 / 16)
+0154.009 (0) Googledrive chunked upload: 95.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 14.6 / 16)
+0155.075 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0155.079 (0) Google Drive: OK: Archive backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip uploaded in 1.6 seconds
+0155.080 (0) Recording as successfully uploaded: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip
+0155.084 (0) Deleting local file: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip: OK
+0155.085 (0) Deleting zip manifest (backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-themes.zip.list.tmp)
+0155.385 (0) Google Drive: quota usage: used=114.3 MB, total=15360 MB, available=15245.7 MB
+0155.393 (0) Google Drive: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-uploads.zip: Attempting to upload to Google Drive (into folder id: 1dltqUJ-AFcd1AhsLB03nl2bWxUwKY3fW)
+0155.774 (0) Googledrive chunked upload: 4.2 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 14.5 / 16)
+0155.948 (0) Googledrive chunked upload: 12.5 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 14.6 / 16)
+0156.501 (0) Googledrive chunked upload: 29.1 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 14.6 / 16)
+0157.318 (0) Googledrive chunked upload: 62.3 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 14.6 / 16)
+0159.250 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0159.254 (0) Google Drive: OK: Archive backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-uploads.zip uploaded in 3.86 seconds
+0159.255 (0) Recording as successfully uploaded: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-uploads.zip
+0159.260 (0) Deleting local file: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-uploads.zip: OK
+0159.262 (0) Deleting zip manifest (backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-uploads.zip.list.tmp)
+0159.678 (0) Google Drive: quota usage: used=138.4 MB, total=15360 MB, available=15221.6 MB
+0159.680 (0) Google Drive: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-others.zip: Attempting to upload to Google Drive (into folder id: 1dltqUJ-AFcd1AhsLB03nl2bWxUwKY3fW)
+0160.046 (0) Googledrive chunked upload: 72.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 14.5 / 16)
+0161.139 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0161.142 (0) Google Drive: OK: Archive backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-others.zip uploaded in 1.46 seconds
+0161.144 (0) Recording as successfully uploaded: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-others.zip
+0161.147 (0) Deleting local file: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-others.zip: OK
+0161.148 (0) Deleting zip manifest (backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-others.zip.list.tmp)
+0161.541 (0) Google Drive: quota usage: used=139.8 MB, total=15360 MB, available=15220.2 MB
+0161.548 (0) Google Drive: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db.gz: Attempting to upload to Google Drive (into folder id: 1dltqUJ-AFcd1AhsLB03nl2bWxUwKY3fW)
+0163.147 (0) Googledrive chunked upload: 100 % uploaded
+0163.151 (0) Google Drive: OK: Archive backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db.gz uploaded in 1.6 seconds
+0163.152 (0) Recording as successfully uploaded: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db.gz
+0163.155 (0) Deleting local file: backup_2022-03-30-1559_textechnicexportv1_f36438dc9be5-db.gz: OK
+0163.159 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=7
+0163.161 (0) Number of backup sets in history: 3; groups (db): 1
+0163.162 (0) Examining (for databases) backup set with group_id=0, nonce=f36438dc9be5, datestamp=1648648792 (Mar 30 2022 13:59:52)
+0163.163 (0) This backup set is the backup set just made, so will not be deleted.
+0163.163 (0) Examining (for databases) backup set with group_id=0, nonce=f4d8f27665d6, datestamp=1647953955 (Mar 22 2022 12:59:15)
+0163.163 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0163.164 (0) Examining (for databases) backup set with group_id=0, nonce=411385576612, datestamp=1647728200 (Mar 19 2022 22:16:40)
+0163.164 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0163.164 (0) Number of backup sets in history: 3; groups (files): 1
+0163.165 (0) Examining (for files) backup set with nonce=f36438dc9be5, datestamp=1648648792 (Mar 30 2022 13:59:52)
+0163.165 (0) This backup set is the backup set just made, so will not be deleted.
+0163.166 (0) This backup set is the backup set just made, so will not be deleted.
+0163.167 (0) This backup set is the backup set just made, so will not be deleted.
+0163.167 (0) This backup set is the backup set just made, so will not be deleted.
+0163.167 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0163.168 (0) Examining (for files) backup set with nonce=f4d8f27665d6, datestamp=1647953955 (Mar 22 2022 12:59:15)
+0163.168 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0163.168 (0) Examining (for files) backup set with nonce=411385576612, datestamp=1647728200 (Mar 19 2022 22:16:40)
+0163.168 (0) plugins: over retain limit (2); will delete this file entity
+0163.169 (0) themes: over retain limit (2); will delete this file entity
+0163.169 (0) uploads: over retain limit (2); will delete this file entity
+0163.169 (0) others: over retain limit (2); will delete this file entity
+0163.169 (0) Delete file: backup_2022-03-19-2316_textechnicexportv1_411385576612-plugins.zip, service=googledrive
+0163.170 (0) Delete file: backup_2022-03-19-2316_textechnicexportv1_411385576612-themes.zip, service=googledrive
+0163.172 (0) Delete file: backup_2022-03-19-2316_textechnicexportv1_411385576612-uploads.zip, service=googledrive
+0163.173 (0) Delete file: backup_2022-03-19-2316_textechnicexportv1_411385576612-others.zip, service=googledrive
+0164.806 (0) Google Drive: backup_2022-03-19-2316_textechnicexportv1_411385576612-others.zip: Deletion successful
+0165.442 (0) Google Drive: backup_2022-03-19-2316_textechnicexportv1_411385576612-uploads.zip: Deletion successful
+0166.119 (0) Google Drive: backup_2022-03-19-2316_textechnicexportv1_411385576612-themes.zip: Deletion successful
+0166.681 (0) Google Drive: backup_2022-03-19-2316_textechnicexportv1_411385576612-plugins.zip: Deletion successful
+0166.690 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0166.691 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0166.695 (0) Resume backup (f36438dc9be5, 0): finish run
+0166.698 (0) Decremented the semaphore (fd) by 1
+0166.700 (0) Semaphore (fd) unlocked
+0166.702 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0166.705 (0) The backup apparently succeeded and is now complete
+0166.707 (0) No email will/can be sent - the user has not configured an email address.
+0166.708 (0) La sauvegarde a apparemment réussi et est maintenant terminée
